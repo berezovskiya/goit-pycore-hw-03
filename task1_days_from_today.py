@@ -14,4 +14,4 @@ def get_days_from_today(date):
         return None
 
 
-print(get_days_from_today("2028-10-09"))
+print(get_days_from_today("2028-10-18"))
